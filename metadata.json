@@ -1,0 +1,6 @@
+{
+  "name": "Chris News AI — Financial News Simplifier",
+  "description": "AI-powered financial news simplifier that transforms complex market articles into concise, jargon-free explanations with key takeaways and financial term definitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
