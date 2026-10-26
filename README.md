@@ -201,6 +201,9 @@ A comprehensive audit was performed across all dependencies and implementation p
 3. **Prompt Injection Mitigation:** System instructions explicitly restrict Groq's output to valid JSON matching an enforced schema, with strict grounding that forbids hallucinating facts outside the provided text.
 4. **Resilient Fallback Protection:** If upstream APIs encounter rate limits, outages, or missing keys, the application does not crash. It displays high-fidelity educational data with clear advisory banners.
 
+**Documantation**
+https://docs.google.com/document/d/1nAGXR931KIe_VZOc7sYxQktK__aKW0YK/edit?usp=sharing&ouid=106332474148719987055&rtpof=true&sd=true
+
 ---
 
 ## 9. Legal Disclaimer
